@@ -1,2 +1,2 @@
 # machine-learning
-Learning by Doing.
+Tutorials for Machine Learning.
